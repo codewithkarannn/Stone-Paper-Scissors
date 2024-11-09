@@ -1,0 +1,52 @@
+{
+  "hash": "99662763",
+  "configHash": "b33579c8",
+  "lockfileHash": "cd88cc92",
+  "browserHash": "27c2731d",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "69d5d08f",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "2a6a1099",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "3ea2238c",
+      "needsInterop": false
+    },
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "b22c4929",
+      "needsInterop": false
+    },
+    "flowbite": {
+      "src": "../../../../../../node_modules/flowbite/lib/esm/index.js",
+      "file": "flowbite.js",
+      "fileHash": "9a04ea7d",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-5ZWCRHMO": {
+      "file": "chunk-5ZWCRHMO.js"
+    },
+    "chunk-ARLGZJ2E": {
+      "file": "chunk-ARLGZJ2E.js"
+    },
+    "chunk-5R4CA3DT": {
+      "file": "chunk-5R4CA3DT.js"
+    },
+    "chunk-WDMUDEB6": {
+      "file": "chunk-WDMUDEB6.js"
+    }
+  }
+}
